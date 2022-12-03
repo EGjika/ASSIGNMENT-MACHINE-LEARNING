@@ -2,8 +2,8 @@
 ASSIGNMENT 1: CARS DATASET Dataset 
 
 Dataset
- The Cars Dataset can be found here: (https://ai.stanford.edu/~jkrause/cars/car_dataset.html) 
- The Cars dataset contains 16,185 images of 196 classes of cars. The data is split into 8,144 
+The Cars Dataset can be found here: (https://ai.stanford.edu/~jkrause/cars/car_dataset.html) 
+The Cars dataset contains 16,185 images of 196 classes of cars. The data is split into 8,144 
 training images and 8,041 testing images, where each class has been split roughly in a 50-50 
 split. 
 
